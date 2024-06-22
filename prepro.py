@@ -1,3 +1,8 @@
+#-----------------------------------
+# Names: Octavio O. H. y Juan. L. L.
+#Project Name:  Clasificador de imágenes
+#-----------------------------------
+
 import os
 import numpy as np
 from PIL import Image
