@@ -1,2 +1,2 @@
 # PDI_JUAN
-Proyecto de Juan el caballo loco
+Proyecto de Juan el caballo loco mutante potente
